@@ -1,4 +1,4 @@
-# 🧩 Générateur et Explorateur de Labyrinthe - Mini-Projet L1 Informatique
+# 🧩Labyrinthe - Mini-Projet L1 Informatique
 
 ## 📌 Objectif du Projet
 
