@@ -56,7 +56,8 @@ Le but de ce projet est de concevoir et d'implémenter un **labyrinthe interacti
 ## 🖥️ Exemple d'Utilisation
 
 Génération d'un labyrinthe parfait avec une taille personnalisée (p × q).
-Interaction avec le labyrinthe (déplacement manuel ou recherche automatique).
+Interaction avec le labyrinthe (déplacement manuel ou recherche automatique).![Capture d’écran 2025-01-28 à 00 47 13](https://github.com/user-attachments/assets/b893c956-f910-4b36-bf5e-b0622f7d15f0)
+
 Affichage des chemins explorés et solutions possibles.
 
 
@@ -64,3 +65,4 @@ Affichage des chemins explorés et solutions possibles.
 GHABI Malek
 
 Ce projet a été réalisé dans le cadre du cours de Mini-Projet, L1 Informatique.
+![Capture d’écran 2025-01-28 à 00 47 13](https://github.com/user-attachments/assets/009328a6-606a-417c-94cc-b961b12c19ad)
