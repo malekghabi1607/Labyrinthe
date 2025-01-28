@@ -53,17 +53,6 @@ Le but de ce projet est de concevoir et d'implémenter un **labyrinthe interacti
   ```bash
   g++ votre_prog.cpp labIO.cpp -o votre_prog -lncurses
 
-
-
-## 📊 Algorithmes Utilisés
-
-Parcours en Profondeur (DFS) :
-Utilisé pour la génération de labyrinthes parfaits.
-Appliqué à la recherche d'un chemin entre deux points dans le labyrinthe.
-Manipulation de Piles :
-Gestion des cases visitées à l'aide d'une pile dynamique.
-
-
 ## 🖥️ Exemple d'Utilisation
 
 Génération d'un labyrinthe parfait avec une taille personnalisée (p × q).
@@ -71,7 +60,7 @@ Interaction avec le labyrinthe (déplacement manuel ou recherche automatique).
 Affichage des chemins explorés et solutions possibles.
 
 
-## ✍️ Auteurs
-GHabi Malek
+## ✍️ Auteur
+GHABI Malek
 
 Ce projet a été réalisé dans le cadre du cours de Mini-Projet, L1 Informatique.
